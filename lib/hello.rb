@@ -1,4 +1,6 @@
-def hello_t
+def hello_t(djSkee)
+
+
 
 end
 
