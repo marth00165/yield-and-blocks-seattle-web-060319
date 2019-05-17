@@ -7,6 +7,9 @@ yield djSkee[i]
 i = i + 1 
 end
 
+djSkee
+
+
 end
 
 # call your method here!
